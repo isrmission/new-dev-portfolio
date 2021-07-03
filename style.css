@@ -1,0 +1,40 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img {
+    width: 80%;
+}
+.bio{
+   text-align: justify;
+}
+.pddng{
+    padding-left: 20px;
+}
+.pddng2 {
+    padding-left: 50px;
+}
+.link-button{
+        text-decoration: none;
+        background-image: linear-gradient(orange,orangered);
+        color: white;
+        font-weight: bolder;
+        padding: 10px 40px;
+        border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
